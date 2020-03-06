@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    background-color: red;
+  color: white;
+  padding: 0.5em 0.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 20px ;
+  float: right;
+}
+.name1 {
+    color: green;
+}
+.name2 {
+    font-family: tahoma;
+}
+.arial {
+    font-family: Arial;
+    color: brown;
+}
+.times {
+    font-family:'Times New Roman';
+    color: blue;
+}
+.heveltica {
+    font-family: helvetica;
+    color: purple;
+}
+.georgia {
+    font-family: georgia;
+    color: orange;
+}
+.serif {
+    font-family: serif;
+    color: indigo;
+}
+.monospace {
+    font-family: monospace;
+    color: violet;
+} 
+.underline {
+    text-decoration-line: underline;
+}
+span {
+    color: pink;
+}
+.width {
+    width: 100%;
+}
+.size {
+    border: 2px;
+    width: 200px;
+    height: 200px;
+}
+#footer {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+img {
+    width: 15%;
+    float: left;
+    margin: 1.6%;
+}
